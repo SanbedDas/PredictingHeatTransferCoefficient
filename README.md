@@ -41,7 +41,6 @@ In this project, I developed and evaluated various machine learning models for p
 | Random Forest Model           | 7401.922                | 0.9634   |
 
 ## Conclusion and Future Directions
-
 Among the models developed, the **Decision Tree Model** and **Random Forest Model** demonstrated superior performance in predicting the heat transfer coefficient. Both models yielded lower MSE values and higher R2 scores compared to other models. Notably, the Decision Tree Model exhibited the highest accuracy, with the lowest MSE and the highest R2 score.
 
 For future work, addressing limitations such as data quality, inclusion of additional relevant variables, exploring non-linear models, and improving computational efficiency would enhance the project's accuracy and applicability.
